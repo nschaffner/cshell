@@ -15,10 +15,10 @@ After cloning the repository, please follow the steps below to run the cshell.c 
     gcc -o cshell cshell.c\
     cshell
 
-###Example
+### Example
 Here is an example run using cshell. Please note that CTRL-C has no effect towards the bottom of the example, when it's used while sitting at the command prompt:
 
-[](example-output.png)
+[](/example-output.png)
 
 ### Notes
 - The cshell.c program was tested on my university's UNIX servers called os1
